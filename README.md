@@ -42,7 +42,7 @@ Our primary target is to implement some standard social networks features:
 
 ## How to run
 
-...
+.....
 
 ## Current Stage of project
 
